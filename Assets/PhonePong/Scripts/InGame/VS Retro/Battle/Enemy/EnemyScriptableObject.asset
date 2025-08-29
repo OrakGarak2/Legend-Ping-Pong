@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: EnemyScriptableObject
   m_EditorClassIdentifier: 
   enemyDatas:
-  - enemyEnum: 0
+  - enemyEnum: 1
     enemyPrefab: {fileID: 0}
